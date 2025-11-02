@@ -1,0 +1,17 @@
+[
+    {
+        "qseqid":"Patient_001",
+        "sseqid":"NM_000546.6",
+        "pident":100.0,
+        "length":30,
+        "mismatch":0,
+        "gapopen":0,
+        "qstart":1,
+        "qend":30,
+        "sstart":1,
+        "send":30,
+        "evalue":0.0,
+        "bitscore":56.5,
+        "Interpretation":"Normal \/ Reference match"
+    }
+]

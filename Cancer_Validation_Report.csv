@@ -1,0 +1,25 @@
+Query_ID,Matched_Gene,Identity(%),Alignment_Length,Bitscore,Evalue,Interpretation
+Patient_BRCA1_mut120,NM_004985.5,100.0,12,24.3,0.085,Normal / Reference match
+Patient_BRCA1_mut120,NM_004985.5,100.0,12,24.3,0.085,Normal / Reference match
+Patient_BRCA1_mut120,NM_004985.5,100.0,9,18.3,5.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_004985.5,100.0,9,18.3,5.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_004985.5,100.0,9,18.3,5.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_004985.5,100.0,9,18.3,5.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_000546.6,100.0,11,22.3,0.34,Normal / Reference match
+Patient_BRCA1_mut120,NM_000546.6,100.0,10,20.3,1.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_000546.6,100.0,10,20.3,1.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_000546.6,100.0,9,18.3,5.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_000546.6,92.308,13,18.3,5.3,Potential cancer mutation
+Patient_BRCA1_mut120,NM_000546.6,100.0,9,18.3,5.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_000546.6,100.0,9,18.3,5.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_007294.4,100.0,10,20.3,1.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_007294.4,100.0,10,20.3,1.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_007294.4,100.0,10,20.3,1.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_007294.4,100.0,9,18.3,5.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_007294.4,100.0,9,18.3,5.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_007294.4,100.0,9,18.3,5.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_007294.4,100.0,9,18.3,5.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_007294.4,100.0,9,18.3,5.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_007294.4,100.0,9,18.3,5.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_007294.4,100.0,9,18.3,5.3,Normal / Reference match
+Patient_BRCA1_mut120,NM_007294.4,100.0,9,18.3,5.3,Normal / Reference match

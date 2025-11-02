@@ -1,0 +1,218 @@
+[
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_004985.5",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 12,
+        "Bitscore": 24.3,
+        "Evalue": 0.085,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_004985.5",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 12,
+        "Bitscore": 24.3,
+        "Evalue": 0.085,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_004985.5",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 9,
+        "Bitscore": 18.3,
+        "Evalue": 5.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_004985.5",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 9,
+        "Bitscore": 18.3,
+        "Evalue": 5.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_004985.5",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 9,
+        "Bitscore": 18.3,
+        "Evalue": 5.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_004985.5",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 9,
+        "Bitscore": 18.3,
+        "Evalue": 5.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_000546.6",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 11,
+        "Bitscore": 22.3,
+        "Evalue": 0.34,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_000546.6",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 10,
+        "Bitscore": 20.3,
+        "Evalue": 1.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_000546.6",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 10,
+        "Bitscore": 20.3,
+        "Evalue": 1.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_000546.6",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 9,
+        "Bitscore": 18.3,
+        "Evalue": 5.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_000546.6",
+        "Identity(%)": 92.308,
+        "Alignment_Length": 13,
+        "Bitscore": 18.3,
+        "Evalue": 5.3,
+        "Interpretation": "Potential cancer mutation"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_000546.6",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 9,
+        "Bitscore": 18.3,
+        "Evalue": 5.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_000546.6",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 9,
+        "Bitscore": 18.3,
+        "Evalue": 5.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_007294.4",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 10,
+        "Bitscore": 20.3,
+        "Evalue": 1.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_007294.4",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 10,
+        "Bitscore": 20.3,
+        "Evalue": 1.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_007294.4",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 10,
+        "Bitscore": 20.3,
+        "Evalue": 1.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_007294.4",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 9,
+        "Bitscore": 18.3,
+        "Evalue": 5.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_007294.4",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 9,
+        "Bitscore": 18.3,
+        "Evalue": 5.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_007294.4",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 9,
+        "Bitscore": 18.3,
+        "Evalue": 5.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_007294.4",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 9,
+        "Bitscore": 18.3,
+        "Evalue": 5.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_007294.4",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 9,
+        "Bitscore": 18.3,
+        "Evalue": 5.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_007294.4",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 9,
+        "Bitscore": 18.3,
+        "Evalue": 5.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_007294.4",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 9,
+        "Bitscore": 18.3,
+        "Evalue": 5.3,
+        "Interpretation": "Normal / Reference match"
+    },
+    {
+        "Query_ID": "Patient_BRCA1_mut120",
+        "Matched_Gene": "NM_007294.4",
+        "Identity(%)": 100.0,
+        "Alignment_Length": 9,
+        "Bitscore": 18.3,
+        "Evalue": 5.3,
+        "Interpretation": "Normal / Reference match"
+    }
+]

@@ -1,0 +1,5 @@
+# BLASTN 2.12.0+
+# Query: Patient_001 Suspected cancer gene fragment
+# Database: cancer_ref_db
+# 0 hits found
+# BLAST processed 1 queries
