@@ -10,6 +10,13 @@ This pipeline combines traditional algorithmic methods with modular Python analy
 
 ---
 
+## 🧬 Pipeline Diagram
+
+Below is an overview of the genomic vector search architecture implemented in this project:
+
+![Genomic Pipeline Diagram](genomic_data_search.png)
+
+
 ## Research Motivation
 
 Cancer genomics relies on precise mutation detection and validation against known reference sequences.  
@@ -121,3 +128,4 @@ This shows that simulated mutations reduce the % identity, confirming the system
 - NCBI RefSeq Database. https://www.ncbi.nlm.nih.gov/refseq/  
 - COSMIC: Catalogue of Somatic Mutations in Cancer.  
 - ClinVar: NIH Genetic
+  
